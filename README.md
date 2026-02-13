@@ -1,4 +1,4 @@
-# RNA_ADALINE-MADALINE_CAMADA_SIMPLES
+# RNA ADALINE-MADALINE DE CAMADA SIMPLES
 Aqui é a segunda parte do projeto Redes Neurais do curso Inteligência Artificial I
 
 ## Curso: 
@@ -28,16 +28,17 @@ Editor de Código Utilizado:
 - Sim, em dois editores.
 
 
-
 ## Experiência nos Treinamentos de Testes.
 
-OBS1: No Google Colabs no primeiro teste deu erros como descritos na documentação junto com os testes, como sugerido, fiz as mudanças para que rodasse a rede neural e no segundo teste já funcionou perfeitamente como mostrado no gráfico de plotagem. No próprio Google Colabs há a IA Generativa Gemini e assim foi acertando automáticamente.
+OBS1:  Neste RNA No Google Colabs logo no  primeiro teste foi bem satisfatório assim como descrito no arquivo de iamgens de testes, aqui não houve mudanças e rodou perfeitamente, já funcionando a rede neural como mostrado no gráfico de plotagem. Neste Treinamento não houve auxílio da IA Generativa Gemini.
 
-OBS2: No Vs Code Não consegui concluir todo o teste, pois há uma diferença técnica entre o Google Colabs e o Vs Code (sobre o Python), assim dava erros sucessivos e perguntava para a IA Generativa Copilot no próprio Vs Code e me retornava o código correto, mas não executava por causa dessa diferença entre o Google Colabs e o Vs Code. Portanto, a Versão do Python que uso no Vs Code é 3.14 e a Versão do Google Colabs é 3.10 ou 3.11.
+OBS2: Este treinamento é bem parecido com a rede neural do Perceptron, tanto que os códigos e o gráfico são parecidos, mas há sutis diferenças entre as redes neurais Perceptron e Adaline
+
+OBS3: No VsCode não fiz nenhum teste, pois como no primeiro caso da rede perceptron deu muitos erros, não prossegui e nem fiz pastas de arquivos, seguindo apenas no Google Colabs.
 
 ## Documentação:
 
-- Print da Conversa com o Copilot do Vs Code:
+-
 
 
 
