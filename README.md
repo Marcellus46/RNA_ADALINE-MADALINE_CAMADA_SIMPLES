@@ -1,4 +1,4 @@
-# RNA ADALINE-MADALINE DE CAMADA SIMPLES
+# RNA ADALINE-MADALINE DE  2 CAMADAS SIMPLES
 Aqui é a segunda parte do projeto Redes Neurais do curso Inteligência Artificial I
 
 ## Curso: 
@@ -22,11 +22,12 @@ Editor de Código Utilizado:
 ## Objetivos:
 
 - Treinar uma Rede Neural de Camada Simples em Output
+- Amostragem de Rede Neural Artificial em Funcionamento.
+- Testes em Diversos Cenários.
   
 ## Treinamento Testado:
 
-- Sim, em dois editores.
-
+- Sim, em um editor (Google Colabs com Sucesso).
 
 ## Experiência nos Treinamentos de Testes.
 
