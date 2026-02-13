@@ -39,10 +39,7 @@ OBS3: No VsCode não fiz nenhum teste, pois como no primeiro caso da rede percep
 
 ## Documentação:
 
--
-
-
-
+- Não tem
 
 ### ATENÇÃO!
 
